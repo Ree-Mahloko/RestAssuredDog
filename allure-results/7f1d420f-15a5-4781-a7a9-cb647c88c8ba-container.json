@@ -1,0 +1,1 @@
+{"uuid":"7f1d420f-15a5-4781-a7a9-cb647c88c8ba","name":"FdeleteVoteForCreatedDogTest()","children":["5e525f21-6377-4b9e-9c6c-34ed2c7257fa"],"befores":[{"name":"setUp","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1678949151559,"stop":1678949152687}],"afters":[],"start":1678949151557,"stop":1678949153768}

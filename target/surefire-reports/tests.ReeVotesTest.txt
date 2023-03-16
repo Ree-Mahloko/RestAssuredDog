@@ -1,0 +1,27 @@
+-------------------------------------------------------------------------------
+Test set: tests.ReeVotesTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 11.389 s <<< FAILURE! - in tests.ReeVotesTest
+getCreatedDogTest  Time elapsed: 2.093 s
+voteDownCreatedDogTest  Time elapsed: 2.566 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <201> but was <405>.
+
+	at tests.ReeVotesTest.voteDownCreatedDogTest(ReeVotesTest.java:101)
+
+EvoteUpCreatedDogTest  Time elapsed: 2.099 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <201> but was <405>.
+
+	at tests.ReeVotesTest.EvoteUpCreatedDogTest(ReeVotesTest.java:122)
+
+postVoteTest  Time elapsed: 2.382 s
+FdeleteVoteForCreatedDogTest  Time elapsed: 2.239 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <204> but was <200>.
+
+	at tests.ReeVotesTest.FdeleteVoteForCreatedDogTest(ReeVotesTest.java:140)
+

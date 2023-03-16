@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: tests.ReeFavouriteTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.296 s - in tests.ReeFavouriteTest
+cdeleteFavouriteById  Time elapsed: 2.741 s
+apostFavouriteBySubId  Time elapsed: 2.616 s
+bgetFavouriteBySubId  Time elapsed: 6.934 s

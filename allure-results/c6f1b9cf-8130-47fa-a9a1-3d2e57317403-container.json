@@ -1,0 +1,1 @@
+{"uuid":"c6f1b9cf-8130-47fa-a9a1-3d2e57317403","name":"getCreatedDogTest()","children":["deb62f4e-1e88-4710-9905-f5dc10d91c19"],"befores":[{"name":"setUp","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1678949142106,"stop":1678949143327}],"afters":[],"start":1678949142103,"stop":1678949144502}

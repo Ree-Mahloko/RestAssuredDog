@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: tests.ReeCategoriesTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.785 s <<< FAILURE! - in tests.ReeCategoriesTest
+getCategoriesTest  Time elapsed: 1.784 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <true> but was: <false>
+	at tests.ReeCategoriesTest.getCategoriesTest(ReeCategoriesTest.java:30)
+
